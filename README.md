@@ -4,19 +4,19 @@ Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 ## Reg. No.212225230075
 # AI RESEARCH ASSISTANT USING PROMPT ENGINEERING
 
-## 1. PROJECT TITLE
+## PROJECT TITLE
 
 **AI Research Assistant Using Prompt Engineering**
 
-## 2. ENGINEERING DOMAIN
+## ENGINEERING DOMAIN
 
 **Artificial Intelligence (AI)**
 
-## 3. AIM
+## AIM
 
 To design and develop a Prompt Engineering solution that uses an AI Research Assistant to help engineering students and researchers collect, organize, summarize, and present technical information using effective prompting techniques.
 
-## 4. OBJECTIVES
+## OBJECTIVES
 
 1. To understand the role of Prompt Engineering in Artificial Intelligence.
 2. To design effective prompts for research-related tasks.
@@ -28,7 +28,7 @@ To design and develop a Prompt Engineering solution that uses an AI Research Ass
 
 ---
 
-# 5. PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 Engineering students and researchers need to collect and organize large amounts of technical information while preparing reports, research papers, literature reviews, presentations, and project documentation.
 
@@ -42,7 +42,7 @@ Therefore, Prompt Engineering techniques are used to design, test, evaluate, and
 
 ---
 
-# 6. PROPOSED SOLUTION
+# PROPOSED SOLUTION
 
 The proposed system is an **AI Research Assistant** based on Prompt Engineering.
 
@@ -66,7 +66,7 @@ The system uses different prompting techniques and improves the prompt through m
 
 ---
 
-# 7. SYSTEM WORKFLOW
+# SYSTEM WORKFLOW
 
 The working process of the proposed AI Research Assistant is:
 
@@ -112,7 +112,7 @@ The final response is checked to determine whether it satisfies the research req
 
 ---
 
-# 8. PROMPT DESIGN
+# PROMPT DESIGN
 
 The main prompt design pattern used in this project is:
 
@@ -160,7 +160,7 @@ Example:
 
 ---
 
-# 9. PROMPT ITERATION
+# PROMPT ITERATION
 
 Prompt iteration is the process of improving a prompt based on the quality of the AI-generated response.
 
@@ -168,7 +168,7 @@ Three versions of the prompt were developed.
 
 ---
 
-## 9.1 INITIAL PROMPT
+## INITIAL PROMPT
 
 ### Prompt
 
@@ -195,7 +195,7 @@ The response is simple and relevant, but it lacks detailed organization.
 
 ---
 
-# 9.2 PROMPT ITERATION – VERSION 1
+# PROMPT ITERATION – VERSION 1
 
 ### Improved Prompt
 
@@ -242,7 +242,7 @@ The prompt does not clearly define the role of the AI, expected depth, research 
 
 ---
 
-# 9.3 PROMPT ITERATION – VERSION 2
+# PROMPT ITERATION – VERSION 2
 
 ### Improved Prompt
 
@@ -263,7 +263,7 @@ This prompt provides the AI with a specific role, context, task, constraints, an
 
 ---
 
-# 10. FINAL OPTIMIZED PROMPT
+# FINAL OPTIMIZED PROMPT
 
 The final prompt developed for the AI Research Assistant is:
 
@@ -271,7 +271,7 @@ The final prompt developed for the AI Research Assistant is:
 
 ---
 
-# 11. FINAL AI OUTPUT
+# FINAL AI OUTPUT
 
 ## Topic: Artificial Intelligence in Healthcare
 
@@ -355,7 +355,7 @@ Artificial Intelligence has significant potential to support healthcare by assis
 
 ---
 
-# 12. AI OUTPUT EVALUATION
+# AI OUTPUT EVALUATION
 
 The generated output is evaluated using five major criteria.
 
@@ -373,7 +373,7 @@ The final prompt produced a more structured, relevant, clear, and complete respo
 
 ---
 
-# 13. PROMPT COMPARISON
+# PROMPT COMPARISON
 
 | Prompt Version | Quality  | Main Feature                                        |
 | -------------- | -------- | --------------------------------------------------- |
@@ -384,7 +384,7 @@ The final prompt produced a more structured, relevant, clear, and complete respo
 
 ---
 
-# 14. PROMPT REPOSITORY
+# PROMPT REPOSITORY
 
 The following prompts can be reused with the AI Research Assistant.
 
@@ -414,41 +414,41 @@ The following prompts can be reused with the AI Research Assistant.
 
 ---
 
-# 15. ETHICAL CONSIDERATIONS
+# ETHICAL CONSIDERATIONS
 
 The AI Research Assistant should be used responsibly.
 
-### 15.1 Accuracy
+### Accuracy
 
 AI-generated information may contain errors. Important technical information should be verified using reliable sources.
 
-### 15.2 Hallucination
+### Hallucination
 
 AI systems may sometimes generate information that appears correct but is unsupported. Users should verify important claims.
 
-### 15.3 Fabricated References
+### Fabricated References
 
 The system should not create fake research papers, authors, journals, or citations.
 
-### 15.4 Privacy
+### Privacy
 
 Confidential or personally identifiable information should not be unnecessarily entered into AI systems.
 
-### 15.5 Bias
+### Bias
 
 AI outputs may reflect biases present in the data used to develop the system. Outputs should therefore be reviewed critically.
 
-### 15.6 Academic Integrity
+### Academic Integrity
 
 AI should support learning and research rather than replace the student's own understanding and work.
 
-### 15.7 Human Verification
+### Human Verification
 
 Final technical decisions and important research conclusions should be reviewed by a qualified human.
 
 ---
 
-# 16. FINAL SOLUTION
+# FINAL SOLUTION
 
 The final solution is an AI Research Assistant that uses Prompt Engineering to generate structured research content.
 
@@ -460,7 +460,7 @@ This approach improves the quality of AI-generated research content and makes th
 
 ---
 
-# 17. DEMONSTRATION
+# DEMONSTRATION
 
 The project can be demonstrated using the following steps:
 
@@ -507,7 +507,7 @@ Explain why the final prompt provides better results.
 
 ---
 
-# 18. EXPECTED OUTPUT
+# EXPECTED OUTPUT
 
 The developed AI Research Assistant should be able to:
 
@@ -522,7 +522,7 @@ The developed AI Research Assistant should be able to:
 
 ---
 
-# 19. FINAL PRESENTATION / PPT CONTENT
+# FINAL PRESENTATION / PPT CONTENT
 
 ## Slide 1 – Title
 
@@ -604,7 +604,7 @@ Prompt Engineering improves the quality, clarity, relevance, and organization of
 
 ---
 
-# 20. CONCLUSION
+# CONCLUSION
 
 The project successfully demonstrates the use of Prompt Engineering to develop an AI Research Assistant for engineering research activities. Different prompt versions were designed and iteratively improved to obtain better AI-generated outputs.
 
